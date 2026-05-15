@@ -27,7 +27,7 @@
   {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
 {% endif %}
 
-<header class="hover smooth" style="padding: 25px 500px;">
+<header class="hover smooth" style="padding: 25px 400px;">
   <div style="display: flex; align-items: center; gap: 130px;">
     <div>
       {% unless site.show_minimal and site.navigation and site.external %}
