@@ -12,6 +12,8 @@ title: "Welcome to my website!"
 <p> Phone: (514) 340-4711 Ext. 4923 Room: J-4033 </p>
 <p> jing.guo@polymtl.ca</p>
 
+<br>
+
 <h2> Biography </h2>
 <p> Before joining Polytechnique Montréal, Jing was a research scientist at MIT from 2022 to 2025. Prior to that, he worked in the biopharmaceutical industry, serving as a senior scientist at Bristol Myers Squibb (2020–2022) and Teva Pharmaceuticals (2018–2020). He also held a postdoctoral position in the Department of Chemical Engineering at the University of Delaware from 2016 to 2018. </p>
 
