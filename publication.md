@@ -63,28 +63,35 @@ Baik, J. Y., Guo, J., & Lee, K. H. (2019). <a href="https://onlinelibrary.wiley.
 
 ### 2018
 
-<div style=“margin-bottom: 10px;”>Greene, D. G., Traylor, S. J., Guo, J., Choe, L. H., Modla, S., Xu, X., Singh, N., Lock, L. L., Ghose, S., Li, Z. J., Lee, K. H., Wagner, N. J., &amp; Lenhoff, A. M. (2018). <a href="https://publications.polymtl.ca/66503/" target="_blank">Mechanisms of precipitate formation during the purification of an Fc-fusion protein.</a> <em>Biotechnology and Bioengineering</em>, <em>115</em>(10), 2489-2503.</div>
+<div style="margin-bottom: 10px;">
+  Greene, D. G., Traylor, S. J., Guo, J., Choe, L. H., Modla, S., Xu, X., Singh, N., Lock, L. L., Ghose, S., Li, Z. J., Lee, K. H., Wagner, N. J., &amp; Lenhoff, A. M. (2018). <a href="https://publications.polymtl.ca/66503/" target="_blank">Mechanisms of precipitate formation during the purification of an Fc-fusion protein.</a> <em>Biotechnology and Bioengineering</em>, <em>115</em>(10), 2489-2503.</div>
 
 ### 2016
 
-<div style=“margin-bottom: 10px;”>Guo, J., Creasy, A. D., Barker, G., &amp; Carta, G. (2016). <a href="https://publications.polymtl.ca/66504/" target="_blank">Surface induced three-peak elution behavior of a monoclonal antibody during cation exchange chromatography.</a> <em>Journal of Chromatography A</em>, <em>1474</em>, 85-94.</div>
+<div style="margin-bottom: 10px;">
+  Guo, J., Creasy, A. D., Barker, G., &amp; Carta, G. (2016). <a href="https://publications.polymtl.ca/66504/" target="_blank">Surface induced three-peak elution behavior of a monoclonal antibody during cation exchange chromatography.</a> <em>Journal of Chromatography A</em>, <em>1474</em>, 85-94.</div>
 
 ### 2015
 
-<div style=“margin-bottom: 10px;”>Guo, J., &amp; Carta, G. (2015). <a href="https://publications.polymtl.ca/66505/" target="_blank">Unfolding and aggregation of monoclonal antibodies on cation exchange columns: effects of resin type, load buffer, and protein stability.</a> <em>Journal of Chromatography A</em>, <em>1388</em>, 184-194.</div>
+<div style="margin-bottom: 10px;">
+  Guo, J., &amp; Carta, G. (2015). <a href="https://publications.polymtl.ca/66505/" target="_blank">Unfolding and aggregation of monoclonal antibodies on cation exchange columns: effects of resin type, load buffer, and protein stability.</a> <em>Journal of Chromatography A</em>, <em>1388</em>, 184-194.</div>
 
 ### 2014
 
-<div style=“margin-bottom: 10px;”>Guo, J., Zhang, S., &amp; Carta, G. (2014). <a href="https://publications.polymtl.ca/66506/" target="_blank">Unfolding and aggregation of a glycosylated monoclonal antibody on a cation exchange column. Part I. Chromatographic elution and batch adsorption behavior.</a> <em>Journal of Chromatography A</em>, <em>1356</em>, 117-128.</div>
+<div style="margin-bottom: 10px;">
+  Guo, J., Zhang, S., &amp; Carta, G. (2014). <a href="https://publications.polymtl.ca/66506/" target="_blank">Unfolding and aggregation of a glycosylated monoclonal antibody on a cation exchange column. Part I. Chromatographic elution and batch adsorption behavior.</a> <em>Journal of Chromatography A</em>, <em>1356</em>, 117-128.</div>
 
-<div style=“margin-bottom: 10px;”>Guo, J., &amp; Carta, G. (2014). <a href="https://publications.polymtl.ca/66507/" target="_blank">Unfolding and aggregation of a glycosylated monoclonal antibody on a cation exchange column. Part II. Protein structure effects by hydrogen deuterium exchange mass spectrometry.</a> <em>Journal of Chromatography A</em>, <em>1356</em>, 129-137.</div>
+<div style="margin-bottom: 10px;">
+  Guo, J., &amp; Carta, G. (2014). <a href="https://publications.polymtl.ca/66507/" target="_blank">Unfolding and aggregation of a glycosylated monoclonal antibody on a cation exchange column. Part II. Protein structure effects by hydrogen deuterium exchange mass spectrometry.</a> <em>Journal of Chromatography A</em>, <em>1356</em>, 129-137.</div>
 
 ### Book Chapters
 
 ### 2023
-  <div style=“margin-bottom: 10px;”>Guo, J., &amp; Xu, X. (2023). <a href="https://publications.polymtl.ca/66498/" target="_blank">Conformational changes of biomolecules in ion-exchange chromatography. </a> In Nesterenko, P. N., Poole, C. F., &amp; Sun, Y. (eds.),  <em>Ion-Exchange Chromatography and Related Techniques</em> (pp. 521-534).  </div>
+ <div style="margin-bottom: 10px;">
+   Guo, J., &amp; Xu, X. (2023). <a href="https://publications.polymtl.ca/66498/" target="_blank">Conformational changes of biomolecules in ion-exchange chromatography. </a> In Nesterenko, P. N., Poole, C. F., &amp; Sun, Y. (eds.),  <em>Ion-Exchange Chromatography and Related Techniques</em> (pp. 521-534).  </div>
 
 ### 2019
-  <div style=“margin-bottom: 10px;”>Baik, J. Y., Guo, J., &amp; Lee, K. H. (2019). <a href="https://publications.polymtl.ca/66502/" target="_blank">Host cell proteins during biomanufacturing. </a> In Lee, G. M., Kildegaard, H. F., Lee, S. Y., Nielsen, J., &amp; Stephanopoulos, G. (eds.),  <em>Cell Culture Engineering: Recombinant Protein Production</em> (pp. 295-311).  </div>
+ <div style="margin-bottom: 10px;">
+   Baik, J. Y., Guo, J., &amp; Lee, K. H. (2019). <a href="https://publications.polymtl.ca/66502/" target="_blank">Host cell proteins during biomanufacturing. </a> In Lee, G. M., Kildegaard, H. F., Lee, S. Y., Nielsen, J., &amp; Stephanopoulos, G. (eds.),  <em>Cell Culture Engineering: Recombinant Protein Production</em> (pp. 295-311).  </div>
 
 
