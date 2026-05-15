@@ -11,8 +11,12 @@ title: "Publications"
 
 ### 2026
 
-<div>
+<div style="margin-bottom: 10px;">
   Ma, Y., Guo, J., Dubs, A. B., Ganko, K., &amp; Braatz, R. D. (2026). <a href="https://publications.polymtl.ca/71396/" target="_blank"> Adaptive nonlinear model predictive control of monoclonal antibody glycosylation in CHO cell culture. </a> <em> Control Engineering Practice</em>, <em>169</em>, 106731 (15 pages).
+</div>
+
+<div style="margin-bottom: 10px;">
+Ma, Y., Guo, J., & Braatz, R. D. (2026). <a href="https://arxiv.org/abs/2601.01413" target="_blank">GlycoPy: A CasADi-based Python Framework for Hierarchical Modeling, Optimization, and Control of Bioprocesses.</a> <em>arXiv</em>, 2601.01413.
 </div>
 
 ### 2025
