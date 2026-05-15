@@ -3,14 +3,17 @@
 
 {% include head.html %}
 
-<header class="hover smooth" style="position: relative;">
-  {% unless site.show_minimal and site.navigation and site.external %}
-    <h1 {% if site.navigation and site.external %}class="full"{% endif %}>
-      <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-    </h1>
-  {% endunless %}
+<header class="hover smooth" style="position: relative; padding: 25px 20px;">
 
-  {% include menu.html menu=site.navigation %}
+  <div style="display: flex; align-items: center; gap: 45px;">
+    {% unless site.show_minimal and site.navigation and site.external %}
+      <h1 style="margin: 0;">
+        <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+      </h1>
+    {% endunless %}
+
+    {% include menu.html menu=site.navigation %}
+  </div>
 
   <div style="position: absolute; top: 20px; right: 25px; font-size: 14px;">
     {% if page.url contains '/fr/' %}
@@ -21,18 +24,8 @@
       <a href="/fr{{ page.url }}">FR</a>
     {% endif %}
   </div>
-</header>
 
-<script>
-function toggleLangMenu() {
-  var menu = document.getElementById("lang-menu");
-  if (menu.style.display === "none") {
-    menu.style.display = "block";
-  } else {
-    menu.style.display = "none";
-  }
-}
-</script>
+</header>
 
 {{ content }}
 
