@@ -1,9 +1,7 @@
 ---
 layout: page
-title: "Bienvenue!"
+title: "Bienvenue sur mon site web !"
 ---
-
-
 
 
 
