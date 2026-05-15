@@ -3,6 +3,12 @@ layout: page
 title: "Bienvenue!"
 ---
 
+<p>
+<a href="/research/">English</a> |
+<a href="/fr/research/">Français</a>
+</p>
+
+
 <div style="display: flex; align-items: flex-start;">
 
   <img src="/img/headshot.jpg" alt="Jing Guo"
