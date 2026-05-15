@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Bienvenue sur mon site web !"
 ---
 
