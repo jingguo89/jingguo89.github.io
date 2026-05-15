@@ -3,7 +3,7 @@
 
 {% include head.html %}
 
-<header class="hover smooth">
+<header class="hover smooth" style="position: relative;">
   {% unless site.show_minimal and site.navigation and site.external %}
     <h1 {% if site.navigation and site.external %}class="full"{% endif %}>
       <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
@@ -13,20 +13,14 @@
   {% include menu.html menu=site.navigation %}
   {% include menu.html menu=site.external %}
 
-  <div style="position: absolute; top: 20px; right: 20px;">
-    <button onclick="toggleLangMenu()" style="cursor: pointer;">
-      🌐 Language
-    </button>
-
-    <div id="lang-menu" style="display: none; margin-top: 8px; text-align: right;">
-      {% if page.url contains '/fr/' %}
-        <a href="{{ page.url | remove_first: '/fr' }}">English</a><br>
-        <strong>Français</strong>
-      {% else %}
-        <strong>English</strong><br>
-        <a href="/fr{{ page.url }}">Français</a>
-      {% endif %}
-    </div>
+  <div style="position: absolute; top: 20px; right: 25px; font-size: 14px;">
+    {% if page.url contains '/fr/' %}
+      <a href="{{ page.url | remove_first: '/fr' }}">EN</a> /
+      <strong>FR</strong>
+    {% else %}
+      <strong>EN</strong> /
+      <a href="/fr{{ page.url }}">FR</a>
+    {% endif %}
   </div>
 </header>
 
