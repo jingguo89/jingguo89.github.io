@@ -11,8 +11,9 @@ title: "Welcome to my website!"
   <div>
 
     <h3>  Biography  </h3>
-    <p>  Jing's research focuses on improving biomanufacturing processes for therapeutic proteins. His group develops both experimental and modeling tools to enhance process productivity and product quality. He specializes in bioseparations, with particular expertise in chromatography. <br> 
-    Before joining Polytechnique Montréal, Jing was a research scientist at MIT from 2022 to 2025. Prior to that, he worked in the biopharmaceutical industry, serving as a senior scientist at Bristol Myers Squibb (2020–2022) and Teva Pharmaceuticals (2018–2020). He also held a postdoctoral position in the Department of Chemical Engineering at the University of Delaware from 2016 to 2018.
+    <p>  Jing's research focuses on improving biomanufacturing processes for therapeutic proteins. His group develops both experimental and modeling tools to enhance process productivity and product quality. He specializes in bioseparations, with particular expertise in chromatography. </p>
+    <br> 
+    <p> Before joining Polytechnique Montréal, Jing was a research scientist at MIT from 2022 to 2025. Prior to that, he worked in the biopharmaceutical industry, serving as a senior scientist at Bristol Myers Squibb (2020–2022) and Teva Pharmaceuticals (2018–2020). He also held a postdoctoral position in the Department of Chemical Engineering at the University of Delaware from 2016 to 2018.
     </p>
 
 
