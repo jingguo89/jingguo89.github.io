@@ -3,11 +3,11 @@ layout: page
 title: "Publications"
 ---
   
-## Working Paper and Forthcoming
+## Publication à paraître
 
 ----
 
-## Journal Articles
+## Articles de revue
 
 ### 2026
 
@@ -91,7 +91,7 @@ Baik, J. Y., Guo, J., & Lee, K. H. (2019). <a href="https://onlinelibrary.wiley.
 
 ---
 
-## Book Chapters
+## Chapitres de livre
 
 ### 2023
  <div style="margin-bottom: 10px;">
