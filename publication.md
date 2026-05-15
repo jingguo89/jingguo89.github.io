@@ -3,11 +3,11 @@ layout: page
 title: "Publications"
 ---
   
-### Working Paper and Forthcoming
+## Working Paper and Forthcoming
 
 ----
 
-### Journal
+## Journal Articles
 
 ### 2026
 
@@ -89,7 +89,9 @@ Baik, J. Y., Guo, J., & Lee, K. H. (2019). <a href="https://onlinelibrary.wiley.
 <div style="margin-bottom: 10px;">
   Guo, J., &amp; Carta, G. (2014). <a href="https://publications.polymtl.ca/66507/" target="_blank">Unfolding and aggregation of a glycosylated monoclonal antibody on a cation exchange column. Part II. Protein structure effects by hydrogen deuterium exchange mass spectrometry.</a> <em>Journal of Chromatography A</em>, <em>1356</em>, 129-137.</div>
 
-### Book Chapters
+---
+
+## Book Chapters
 
 ### 2023
  <div style="margin-bottom: 10px;">
