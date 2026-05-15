@@ -19,7 +19,6 @@ title: "Bienvenue sur mon site web !"
     </p>
 
     <h3>  Contact  </h3>
-    <p>  Téléphone : (514) 340-4711 Ext. 4923  </p>
     <p>  Courriel : jing.guo@polymtl.ca  </p>
     
     <h3>  Formation  </h3>
