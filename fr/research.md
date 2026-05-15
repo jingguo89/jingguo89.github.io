@@ -6,7 +6,7 @@ title: "Rechercher"
 
 ---
 
-### Working Paper and Forthcoming
+### Publications à paraître
 
 **Predictive mechanistic modeling of loading and elution in protein A chromatography**
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0021967323007835" target="_blank">[Google Scholar]</a>
