@@ -1,9 +1,14 @@
 ---
 layout: page
-title: "Rechecher"
+title: "Rechercher"
 ---
 
-### Jing's research focuses on improving biomanufacturing processes for therapeutic proteins. His group develops both experimental and modeling tools to enhance process productivity and product quality. He specializes in bioseparations, with particular expertise in chromatography.
+<p>
+<a href="/research/">English</a> |
+<a href="/fr/research/">Français</a>
+</p>
+
+### En française
 
 ---
 
