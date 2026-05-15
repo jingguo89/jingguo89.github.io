@@ -39,6 +39,11 @@ Ma, Y., Guo, J., & Braatz, R. D. (2026). <a href="https://arxiv.org/abs/2601.014
 <div style="margin-bottom: 10px;">
   Bhoyar, S., Kumar, V., Foster, M., Xu, X., Traylor, S. J., Guo, J., &amp; Lenhoff, A. M. (2024). <a href="https://publications.polymtl.ca/66497/" target="_blank">Predictive mechanistic modeling of loading and elution in protein A chromatography.</a> <em>Journal of Chromatography A</em>, <em>1713</em>, 464558 (11 pages).</div>
 
+<div style="margin-bottom: 10px;">
+Guo, J., & Xu, X. (2024). <a href="https://www.sciencedirect.com/science/article/pii/B9780443153693000201" target="_blank">Conformational changes of biomolecules in ion-exchange chromatography.</a> <em>Ion-Exchange Chromatography and Related Techniques</em>, 521-534.
+</div>
+
+
 ### 2023
 
 <div style="margin-bottom: 10px;">
