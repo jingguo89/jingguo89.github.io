@@ -36,12 +36,11 @@ function toggleLangMenu() {
 
 {{ content }}
 
-<footer class="hover smooth" style="padding: 18px 20px;">
-
-  <div style="display: flex; justify-content: flex-end;">
-    {% include menu.html menu=site.external %}
-  </div>
-
+{% if site.external %}
+<footer>
+  <div>{{ site.description | default: site.title }}</div>
+  {% include menu.html menu=site.external %}
 </footer>
+{% endif %}
 
 </html>
