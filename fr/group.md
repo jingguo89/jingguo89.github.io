@@ -12,8 +12,8 @@ title: "Equipe"
 </td>
 <td>
 <h2> Jing Guo </h2>
-<h4> Principal Investigator  </h4>
-<p> Jing is an Assistant Professor in Department of Chemical Engineering at Polytechnique Montreal. His research focuses on biochemical engineering and separation processes.  </p>
+<h4> Chercheur principal  </h4>
+<p> Jing est professeur adjoint au Département de génie chimique de Polytechnique Montréal. Ses recherches portent sur le génie biochimique et les procédés de séparation.  </p>
 </td>
 </tr>
 </table>
@@ -28,8 +28,8 @@ title: "Equipe"
 </td>
 <td>
 <h2> Cirno </h2>
-<h4> PhD Student </h4>
-<p>  Cirno is an expert of thermodynamics of phase change </p>
+<h4> Doctorante </h4>
+<p>  Cirno est une experte en thermodynamique des changements de phase. </p>
 <p>  Email: cirno@gensokyo. touhou </p>
 </td>
 </tr>
@@ -40,8 +40,8 @@ title: "Equipe"
 </td>
 <td>
 <h2> Koishi </h2>
-<h4> Master </h4>
-<p>  Koishi's study focuses on subconscious behavior </p>
+<h4> Étudiante à la maîtrise </h4>
+<p>  Les recherches de Koishi portent sur les comportements subconscients. </p>
 <p>  Email: k0ish1@g?ns?ky-- </p>
 </td>
 </tr>
