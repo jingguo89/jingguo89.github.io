@@ -27,27 +27,33 @@ Ma, Y., Guo, J., & Braatz, R. D. (2026). <a href="https://arxiv.org/abs/2601.014
 
 ### 2024
 
-<div style=“margin-bottom: 10px;”>Pons Royo, M. C., Guo, J., Bal, V., Hong, M. S., Barone, P. W., Springs, S. L., Sinskey, A. J., Stelzer, T., Trout, B. L., Myerson, A. S., &amp; Braatz, R. D. (2024). <a href="https://publications.polymtl.ca/73312/" target="_blank">Advances in Crystallization and Precipitation Technologies for Biotherapeutics.</a> <em>Chemical Engineering Progress</em> (May 2024).</div>
+<div style="margin-bottom: 10px;">Pons Royo, M. C., Guo, J., Bal, V., Hong, M. S., Barone, P. W., Springs, S. L., Sinskey, A. J., Stelzer, T., Trout, B. L., Myerson, A. S., &amp; Braatz, R. D. (2024). <a href="https://publications.polymtl.ca/73312/" target="_blank">Advances in Crystallization and Precipitation Technologies for Biotherapeutics.</a> <em>Chemical Engineering Progress</em> (May 2024).</div>
 
-<div style=“margin-bottom: 10px;”>Wang, Y., Bhaskar, U., Chennamsetty, N., Noyes, S., Guo, J., Song, Y., Lewandowski, A., &amp; Ghose, S. (2024). <a href="https://publications.polymtl.ca/66495/" target="_blank">Hydrophobic interaction chromatography in continuous flow-through mode for product-related variant removal.</a> <em>Journal of Chromatography A</em>, <em>1736</em>, 465356 (12 pages).</div>
+<div style="margin-bottom: 10px;">
+  Wang, Y., Bhaskar, U., Chennamsetty, N., Noyes, S., Guo, J., Song, Y., Lewandowski, A., &amp; Ghose, S. (2024). <a href="https://publications.polymtl.ca/66495/" target="_blank">Hydrophobic interaction chromatography in continuous flow-through mode for product-related variant removal.</a> <em>Journal of Chromatography A</em>, <em>1736</em>, 465356 (12 pages).</div>
 
 
-<div style=“margin-bottom: 10px;”>Guo, J., Traylor, S. J., Agoub, M., Jin, W., Hua, H., Diemer, R. B., Xu, X., Ghose, S., Li, Z. J., &amp; Lenhoff, A. M. (2024). <a href="https://publications.polymtl.ca/66496/" target="_blank">Modeling scalability of impurity precipitation in downstream biomanufacturing.</a> <em>Biotechnology Progress</em>, <em>40</em>(4), e3454 (19 pages).</div>
+<div style="margin-bottom: 10px;">
+  Guo, J., Traylor, S. J., Agoub, M., Jin, W., Hua, H., Diemer, R. B., Xu, X., Ghose, S., Li, Z. J., &amp; Lenhoff, A. M. (2024). <a href="https://publications.polymtl.ca/66496/" target="_blank">Modeling scalability of impurity precipitation in downstream biomanufacturing.</a> <em>Biotechnology Progress</em>, <em>40</em>(4), e3454 (19 pages).</div>
 
-<div style=“margin-bottom: 10px;”>Bhoyar, S., Kumar, V., Foster, M., Xu, X., Traylor, S. J., Guo, J., &amp; Lenhoff, A. M. (2024). <a href="https://publications.polymtl.ca/66497/" target="_blank">Predictive mechanistic modeling of loading and elution in protein A chromatography.</a> <em>Journal of Chromatography A</em>, <em>1713</em>, 464558 (11 pages).</div>
+<div style="margin-bottom: 10px;">
+  Bhoyar, S., Kumar, V., Foster, M., Xu, X., Traylor, S. J., Guo, J., &amp; Lenhoff, A. M. (2024). <a href="https://publications.polymtl.ca/66497/" target="_blank">Predictive mechanistic modeling of loading and elution in protein A chromatography.</a> <em>Journal of Chromatography A</em>, <em>1713</em>, 464558 (11 pages).</div>
 
 ### 2023
 
-<div style=“margin-bottom: 10px;”>Bhoyar, S., Foster, M., Oh, Y. H., Xu, X., Traylor, S. J., Guo, J., Ghose, S., &amp; Lenhoff, A. M. (2023). <a href="https://publications.polymtl.ca/66499/" target="_blank">Engineering protein A ligands to mitigate antibody loss during high-pH washes in protein A chromatography.</a> <em>Journal of Chromatography A</em>, <em>1696</em>, 463962 (10 pages).</div>
+<div style="margin-bottom: 10px;">
+  Bhoyar, S., Foster, M., Oh, Y. H., Xu, X., Traylor, S. J., Guo, J., Ghose, S., &amp; Lenhoff, A. M. (2023). <a href="https://publications.polymtl.ca/66499/" target="_blank">Engineering protein A ligands to mitigate antibody loss during high-pH washes in protein A chromatography.</a> <em>Journal of Chromatography A</em>, <em>1696</em>, 463962 (10 pages).</div>
 
 ### 2022
 
-<div style=“margin-bottom: 10px;”>Guo, J., Noyes, S., Jin, W., Curtis, H., Xu, X., &amp; Ghose, S. (2022). <a href="https://publications.polymtl.ca/66500/" target="_blank">Effect of solution condition on the binding behaviors of monoclonal antibody and fusion protein therapeutics in Protein A chromatography.</a> <em>Journal of Chromatography A</em>, <em>1686</em>, 463652 (10 pages).</div>
+<div style="margin-bottom: 10px;">
+  Guo, J., Noyes, S., Jin, W., Curtis, H., Xu, X., &amp; Ghose, S. (2022). <a href="https://publications.polymtl.ca/66500/" target="_blank">Effect of solution condition on the binding behaviors of monoclonal antibody and fusion protein therapeutics in Protein A chromatography.</a> <em>Journal of Chromatography A</em>, <em>1686</em>, 463652 (10 pages).</div>
 
 
 ### 2020
 
-<div style=“margin-bottom: 10px;”>Guo, J., Jin, M., &amp; Kanani, D. (2020). <a href="https://publications.polymtl.ca/66501/" target="_blank">Optimization of single-column batch and multicolumn continuous protein A chromatography and performance comparison based on mechanistic model.</a> <em>Biotechnology Journal</em>, <em>15</em>(10), e2000192 (11 pages).</div>
+<div style="margin-bottom: 10px;">
+  Guo, J., Jin, M., &amp; Kanani, D. (2020). <a href="https://publications.polymtl.ca/66501/" target="_blank">Optimization of single-column batch and multicolumn continuous protein A chromatography and performance comparison based on mechanistic model.</a> <em>Biotechnology Journal</em>, <em>15</em>(10), e2000192 (11 pages).</div>
 
 ### 2019
 
