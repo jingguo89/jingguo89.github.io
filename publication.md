@@ -7,7 +7,7 @@ title: "Publications"
 
 ----
 
-### JOURNAL
+### Journal
 
 ### 2026
 
@@ -17,17 +17,17 @@ title: "Publications"
 
 ### 2025
 
-<p>Hong, S., Chattaraj, K. G., Guo, J., Trout, B. L., &amp; Braatz, R. D. (2025). <a href="https://publications.polymtl.ca/66494/" target="_blank">Enhanced O-glycosylation site prediction using explainable machine learning technique with spatial local environment.</a> <em>Bioinformatics</em>, <em>41</em>(2), btaf034 (9 pages). </p>
-<br>
-<p>Ma, Y., Guo, J., Maloney, A. J., &amp; Braatz, R. D. (2025). <a href="https://publications.polymtl.ca/73310/" target="_blank">Quasi-steady-state approach for efficient multiscale simulation and optimization of mAb glycosylation in CHO cell culture.</a> <em>Chemical Engineering Science</em>, <em>318</em>, 122162 (19 pages).</p>
+<div>Hong, S., Chattaraj, K. G., Guo, J., Trout, B. L., &amp; Braatz, R. D. (2025). <a href="https://publications.polymtl.ca/66494/" target="_blank">Enhanced O-glycosylation site prediction using explainable machine learning technique with spatial local environment.</a> <em>Bioinformatics</em>, <em>41</em>(2), btaf034 (9 pages). </div>
+
+
+<div>Ma, Y., Guo, J., Maloney, A. J., &amp; Braatz, R. D. (2025). <a href="https://publications.polymtl.ca/73310/" target="_blank">Quasi-steady-state approach for efficient multiscale simulation and optimization of mAb glycosylation in CHO cell culture.</a> <em>Chemical Engineering Science</em>, <em>318</em>, 122162 (19 pages).</div>
 
 ### 2024
 
 <div>Pons Royo, M. C., Guo, J., Bal, V., Hong, M. S., Barone, P. W., Springs, S. L., Sinskey, A. J., Stelzer, T., Trout, B. L., Myerson, A. S., &amp; Braatz, R. D. (2024). <a href="https://publications.polymtl.ca/73312/" target="_blank">Advances in Crystallization and Precipitation Technologies for Biotherapeutics.</a> <em>Chemical Engineering Progress</em> (May 2024).</div>
-<br>
+
 <div>Wang, Y., Bhaskar, U., Chennamsetty, N., Noyes, S., Guo, J., Song, Y., Lewandowski, A., &amp; Ghose, S. (2024). <a href="https://publications.polymtl.ca/66495/" target="_blank">Hydrophobic interaction chromatography in continuous flow-through mode for product-related variant removal.</a> <em>Journal of Chromatography A</em>, <em>1736</em>, 465356 (12 pages).</div>
 
-<br>
 
 <div>Guo, J., Traylor, S. J., Agoub, M., Jin, W., Hua, H., Diemer, R. B., Xu, X., Ghose, S., Li, Z. J., &amp; Lenhoff, A. M. (2024). <a href="https://publications.polymtl.ca/66496/" target="_blank">Modeling scalability of impurity precipitation in downstream biomanufacturing.</a> <em>Biotechnology Progress</em>, <em>40</em>(4), e3454 (19 pages).</div>
 
