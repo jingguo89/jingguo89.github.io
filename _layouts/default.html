@@ -27,20 +27,30 @@
   {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
 {% endif %}
 
-<header>
-  <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
-  {% include menu.html menu=pages %}
+<header class="hover smooth" style="padding: 25px 20px;">
+  <div style="display: flex; align-items: center; gap: 45px;">
+    <div>
+      {% unless site.show_minimal and site.navigation and site.external %}
+        <h1 style="margin: 0;">
+          <a href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+        </h1>
+      {% endunless %}
 
-  <div style="position: absolute; top: 20px; right: 25px; font-size: 14px;">
-    {% if page.url contains '/fr/' %}
-      <a href="{{ page.url | remove_first: '/fr' }}">EN</a> /
-      <strong>FR</strong>
-    {% else %}
-      <strong>EN</strong> /
-      <a href="/fr{{ page.url }}">FR</a>
-    {% endif %}
+      <div style="font-size: 14px; margin-top: 6px;">
+        {% if page.url contains '/fr/' %}
+          <a href="{{ page.url | remove_first: '/fr' }}">EN</a> /
+          <strong>FR</strong>
+        {% else %}
+          <strong>EN</strong> /
+          <a href="/fr{{ page.url }}">FR</a>
+        {% endif %}
+      </div>
+    </div>
+
+    <div style="font-weight: normal;">
+      {% include menu.html menu=site.navigation %}
+    </div>
   </div>
-  
 </header>
 
   
