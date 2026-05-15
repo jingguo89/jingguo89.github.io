@@ -24,7 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:jing.guo@polymtl.ca"}
   - {title: Github, icon: github, url: "https://github.com/jingguo89"}
-  - {title: GoogleScholar, icon: google-scholar, url: "httpsscholar.google.comcitationsuser=bWUA1EgAAAAJ&hl=en"}
+  - {title: GoogleScholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=bWUA1EgAAAAJ&hl=en"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
