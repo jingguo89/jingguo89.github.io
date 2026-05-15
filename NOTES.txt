@@ -1,4 +1,7 @@
 _layouts folder - default file: create 2 banners, add language switch
+Better not change!
+
+Descriptions:
 
 fr folder: each page in French
 img folder: stores images in jpeg
