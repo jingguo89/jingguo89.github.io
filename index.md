@@ -16,12 +16,9 @@ title: "Welcome to my website!"
       engineering and separation processes.
     </h3>
 
-    <h2>  Contact  </h2>
-    <p>
-      Phone: (514) 340-4711 Ext. 4923<br>
-      Room: J-4033
-    </p>
-    <p>jing.guo@polymtl.ca</p>
+    <h3>  Contact  </h3>
+    <p>  Phone: (514) 340-4711 Ext. 4923  </p>
+    <p>  Email: jing.guo@polymtl.ca  </p>
 
 
     <h2>  Biography  </h2>
@@ -29,7 +26,7 @@ title: "Welcome to my website!"
     </p>
 
 
-    <h2>  Education  </h2>
+    <h4>  Education  </h4>
     <p>
       Ph.D. in Chemical Engineering (University of Virginia) 2016 
       <br>
