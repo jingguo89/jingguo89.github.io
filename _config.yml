@@ -1,6 +1,6 @@
 title: "Jing Guo"
 author: "Jing Guo"
-description: "Polytechnique Montréal"
+description: "My blog"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -8,28 +8,25 @@ date_format: "%B %d, %Y"
 
 # Layout
 
-show_excerpts: false        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-show_minimal: false             # use a dark header
+show_excerpts: true             # show article excerpts instead of archive list on the home page
+show_frame: true                # display a grey frame on large screens
+show_sidebar: false             # show a sidebar instead of the usual header
+show_minimal: false             # remove all clutter
 
+# Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
-# Menu
+navigation:                     # accepts {file, title, url, icon, sidebaricon}
+  - {file: "archive.html", sidebaricon: home}
+  - {file: "README.md", sidebaricon: address-card}
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Home", file: "index.md"}
-  - {title: "Research", file: "research.md"}
-  - {title: "Group", file: "group.md"}
-  - {title: "Teaching", file: "teaching.md"}
+external:                       # accepts {file, title, url, icon, sidebaricon}
+  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
+  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:jing.guo@polymtl.ca"}
-  - {title: Github, icon: github, url: "https://github.com/jingguo89"}
-  - {title: GoogleScholar, , icon: google-scholar, url: "httpsscholar.google.comcitationsuser=bWUA1EgAAAAJ&hl=en"}
+comments:
+#  disqus_shortname: ""         # see https://disqus.com
+#  isso_domain: ""              # see https://isso-comments.de
 
-comments
-#  disqus_shortname          # see httpsdisqus.com
-#  isso_domain               # see httpsisso-comments.de
-
-plugins
+plugins:
  - jekyll-feed
