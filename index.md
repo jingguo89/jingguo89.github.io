@@ -21,7 +21,7 @@ title: "Welcome to my website!"
 
 <br><br>
     
-    View my <a href="/docs/CV - Diana Li.pdf" target="_blank"> CV </a>.
+    View my <a href="/docs/CV2 - Diana Li.pdf" target="_blank"> CV </a>.
 </div>
 
 
