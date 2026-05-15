@@ -3,6 +3,11 @@ layout: page
 title: "Welcome to Dr.Guo's lab page"
 ---
 
+<p>
+<a href="/research/">English</a> |
+<a href="/fr/research/">Français</a>
+</p>
+
 ### Staffs
 
 <table>
