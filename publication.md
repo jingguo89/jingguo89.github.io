@@ -48,6 +48,12 @@ title: "Publications"
 
 <div>Guo, J., Jin, M., &amp; Kanani, D. (2020). <a href="https://publications.polymtl.ca/66501/" target="_blank">Optimization of single-column batch and multicolumn continuous protein A chromatography and performance comparison based on mechanistic model.</a> <em>Biotechnology Journal</em>, <em>15</em>(10), e2000192 (11 pages).</div>
 
+### 2019
+
+<div style="margin-bottom: 10px;">
+Baik, J. Y., Guo, J., & Lee, K. H. (2019). <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9783527811410.ch12" target="_blank">Host Cell Proteins During Biomanufacturing.</a> <em>Cell Culture Engineering</em>, 295-311.
+</div>
+
 ### 2018
 
 <div>Greene, D. G., Traylor, S. J., Guo, J., Choe, L. H., Modla, S., Xu, X., Singh, N., Lock, L. L., Ghose, S., Li, Z. J., Lee, K. H., Wagner, N. J., &amp; Lenhoff, A. M. (2018). <a href="https://publications.polymtl.ca/66503/" target="_blank">Mechanisms of precipitate formation during the purification of an Fc-fusion protein.</a> <em>Biotechnology and Bioengineering</em>, <em>115</em>(10), 2489-2503.</div>
