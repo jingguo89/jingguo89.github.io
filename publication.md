@@ -7,7 +7,7 @@ title: "Publications"
 
 ----
 
-### JOURNAL ARTICLES
+### Journal Articles
 
 ### 2026
 
