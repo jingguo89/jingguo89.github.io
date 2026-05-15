@@ -18,7 +18,6 @@ title: "Welcome to my website!"
 
 
     <h3>  Contact  </h3>
-    <p>  Phone: (514) 340-4711 Ext. 4923  </p>
     <p>  Email: jing.guo@polymtl.ca  </p>
 
     
