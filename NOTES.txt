@@ -1,0 +1,9 @@
+_layouts/default file: create 2 banners, add language switch
+
+fr folder: each page in French
+img folder: stores images in jpeg
+docs folder: stores documents in pdf, doc, etc.
+
+_config.yml: layout the page with title, tabs, contacting icons
+
+index.md: the main page when click on Jing Guo or Home
