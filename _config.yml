@@ -1,30 +1,31 @@
-title Jing Guo 
-author Jing Guo
-description Polytechnique Montréal
-permalink title
-lang en
-excerpt_separator nnn
-date_format %B %d, %Y
+title: "Jing Guo"
+author: "Jing Guo"
+description: "Polytechnique Montréal"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
 
 # Layout
 
-show_excerpts false             # show article excerpts instead of archive list on the home page
-show_frame true                # display a grey frame on large screens
-show_sidebar false             # show a sidebar instead of the usual header
-minimal false                 # remove all clutter
+show_excerpts: false        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+minimal: false             # use a dark header
 
-# Menu                          # for available icons see httpsfontawesome.comv5icons
 
-navigation                     # accepts {file, title, url, icon, sidebaricon}
-  - {title Home, file index.md}
-  - {title Research, file research.md}
-  - {title Group, file group.md}
-  - {title Teaching, file teaching.md}
+# Menu
 
-external                       # accepts {file, title, url, icon, sidebaricon}
-  - {title Mail, icon envelope, url mailtojing.guo@polymtl.ca}
-  - {title Github, icon github, url httpsgithub.comjingguo89}
-  - {title GoogleScholar, icon google-scholar, url httpsscholar.google.comcitationsuser=bWUA1EgAAAAJ&hl=en}
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {title: "Home", file: "index.md"}
+  - {title: "Research", file: "research.md"}
+  - {title: "Group", file: "group.md"}
+  - {title: "Teaching", file: "teaching.md"}
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:jing.guo@polymtl.ca"}
+  - {title: Github, icon: github, url: "https://github.com/jingguo89"}
+  - {title: GoogleScholar, , icon: google-scholar, url: "httpsscholar.google.comcitationsuser=bWUA1EgAAAAJ&hl=en"}
 
 comments
 #  disqus_shortname          # see httpsdisqus.com
