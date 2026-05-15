@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "Diana Li"
+author: "Diana Li"
+description: "Northeastern University"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -8,27 +8,28 @@ date_format: "%B %d, %Y"
 
 # Layout
 
-show_excerpts: true             # show article excerpts instead of archive list on the home page
-show_frame: true                # display a grey frame on large screens
-show_sidebar: false             # show a sidebar instead of the usual header
-show_minimal: false             # remove all clutter
+show_excerpts: false        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+minimal: false             # use a dark header
 
-#show_frame: "/assets/images/background.svg"
+# Menu
 
-# Menu                          # for available icons see https://fontawesome.com/v5/icons/
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {title: "Home", file: "index.md"}
+  - {title: "Research", file: "research.md"}
+  - {title: "Teaching", file: "teaching.md"}
+  - {title: "Personal", file: "personal.md"}
+  
 
-navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
-  - {file: "README.md", sidebaricon: address-card}
-
-external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:li.daij@northeastern.edu"}
+  - {title: Github, icon: github, url: "https://github.com/dianali495"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/diana-li-14b30812b/"}
 
 comments:
-#  disqus_shortname: ""         # see https://disqus.com
-#  isso_domain: ""              # see https://isso-comments.de
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
  - jekyll-feed
