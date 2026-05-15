@@ -25,7 +25,6 @@ title: "Welcome to my website!"
     <p>
       Ph.D. in Chemical Engineering (University of Virginia) 2016 
     </p>
-      <br>
     <p>  
      Bachelor's degree in Chemical Engineering (Tianjin University) 2011
     </p>
