@@ -8,12 +8,9 @@ title: "Welcome to my website!"
 
 ### I am an Assistant Professor in Department of Chemical Engineering at Polytechnique Montreal. My research focuses on biochemical engineering and separation processes.
 
-#### Contact
-
-
 <h2> Contact </h2>
 <p> Phone: (514) 340-4711 Ext. 4923 Room: J-4033 </p>
-<p> jing.guo@polymtl.ca</p>
+<p> jing.guo@polymtl.ca </p>
 
 </div>
 
