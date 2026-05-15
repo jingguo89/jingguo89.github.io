@@ -9,5 +9,5 @@ _config.yml: layout the page with title, tabs, contacting icons
 index.md: the main page when click on Jing Guo or Home
 research.md: add research details, images, posters etc.
 publication.md: forthcoming, published work. Download bibTex citation, ask chatGPT to transform to html format and paste
-teaching.md: teaching information
-group.md: lab group information, sorted by personnel type. Add photos and descriptions
+teaching.md: teaching information. with Poly external links for course description
+group.md: lab group information, sorted by personnel type. Add photos and descriptions. Use the table format to keep it clean
