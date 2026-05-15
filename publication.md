@@ -7,7 +7,7 @@ title: "Publications"
 
 ----
 
-### Publications
+### JOURNAL ARTICLES
 
 ### 2026
 
@@ -18,15 +18,13 @@ title: "Publications"
 ### 2025
 
 <div>Hong, S., Chattaraj, K. G., Guo, J., Trout, B. L., &amp; Braatz, R. D. (2025). <a href="https://publications.polymtl.ca/66494/" target="_blank">Enhanced O-glycosylation site prediction using explainable machine learning technique with spatial local environment.</a> <em>Bioinformatics</em>, <em>41</em>(2), btaf034 (9 pages). </div>
-
+<br>
 <div>Ma, Y., Guo, J., Maloney, A. J., &amp; Braatz, R. D. (2025). <a href="https://publications.polymtl.ca/73310/" target="_blank">Quasi-steady-state approach for efficient multiscale simulation and optimization of mAb glycosylation in CHO cell culture.</a> <em>Chemical Engineering Science</em>, <em>318</em>, 122162 (19 pages).</div>
 
 ### 2024
 
 <div>Pons Royo, M. C., Guo, J., Bal, V., Hong, M. S., Barone, P. W., Springs, S. L., Sinskey, A. J., Stelzer, T., Trout, B. L., Myerson, A. S., &amp; Braatz, R. D. (2024). <a href="https://publications.polymtl.ca/73312/" target="_blank">Advances in Crystallization and Precipitation Technologies for Biotherapeutics.</a> <em>Chemical Engineering Progress</em> (May 2024).</div>
-
 <br>
-
 <div>Wang, Y., Bhaskar, U., Chennamsetty, N., Noyes, S., Guo, J., Song, Y., Lewandowski, A., &amp; Ghose, S. (2024). <a href="https://publications.polymtl.ca/66495/" target="_blank">Hydrophobic interaction chromatography in continuous flow-through mode for product-related variant removal.</a> <em>Journal of Chromatography A</em>, <em>1736</em>, 465356 (12 pages).</div>
 
 <br>
@@ -69,5 +67,13 @@ title: "Publications"
 <br>
 
 <div>Guo, J., &amp; Carta, G. (2014). <a href="https://publications.polymtl.ca/66507/" target="_blank">Unfolding and aggregation of a glycosylated monoclonal antibody on a cation exchange column. Part II. Protein structure effects by hydrogen deuterium exchange mass spectrometry.</a> <em>Journal of Chromatography A</em>, <em>1356</em>, 129-137.</div>
+
+### Book Chapters
+
+### 2023
+  <div>Guo, J., &amp; Xu, X. (2023). <a href="https://publications.polymtl.ca/66498/" target="_blank">Conformational changes of biomolecules in ion-exchange chromatography. </a> In Nesterenko, P. N., Poole, C. F., &amp; Sun, Y. (eds.),  <em>Ion-Exchange Chromatography and Related Techniques</em> (pp. 521-534).  </div>
+
+### 2019
+  <div>Baik, J. Y., Guo, J., &amp; Lee, K. H. (2019). <a href="https://publications.polymtl.ca/66502/" target="_blank">Host cell proteins during biomanufacturing. </a> In Lee, G. M., Kildegaard, H. F., Lee, S. Y., Nielsen, J., &amp; Stephanopoulos, G. (eds.),  <em>Cell Culture Engineering: Recombinant Protein Production</em> (pp. 295-311).  </div>
 
 
