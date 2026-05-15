@@ -8,8 +8,6 @@ title: "Rechercher"
 <a href="/fr/research/">Français</a>
 </p>
 
-### En française
-
 ---
 
 ### Working Paper and Forthcoming
