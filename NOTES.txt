@@ -1,4 +1,4 @@
-_layouts/default file: create 2 banners, add language switch
+_layouts folder - default file: create 2 banners, add language switch
 
 fr folder: each page in French
 img folder: stores images in jpeg
@@ -7,3 +7,7 @@ docs folder: stores documents in pdf, doc, etc.
 _config.yml: layout the page with title, tabs, contacting icons
 
 index.md: the main page when click on Jing Guo or Home
+research.md: add research details, images, posters etc.
+publication.md: forthcoming, published work. Download bibTex citation, ask chatGPT to transform to html format and paste
+teaching.md: teaching information
+group.md: lab group information, sorted by personnel type. Add photos and descriptions
