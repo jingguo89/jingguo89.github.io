@@ -3,12 +3,6 @@ layout: page
 title: "Enseignement"
 ---
 
-<p>
-<a href="/research/">English</a> |
-<a href="/fr/research/">Français</a>
-</p>
-
-
 J’ai enseigné divers cours de génie aux niveaux du premier cycle et des cycles supérieurs, en anglais et en français.
 
 #### Cours aux cycles supérieurs
