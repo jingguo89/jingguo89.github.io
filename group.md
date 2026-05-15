@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Welcome to Dr.Guo's lab page"
 ---
 
