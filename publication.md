@@ -17,10 +17,10 @@ title: "Publications"
 
 ### 2025
 
-<div>Hong, S., Chattaraj, K. G., Guo, J., Trout, B. L., &amp; Braatz, R. D. (2025). <a href="https://publications.polymtl.ca/66494/" target="_blank">Enhanced O-glycosylation site prediction using explainable machine learning technique with spatial local environment.</a> <em>Bioinformatics</em>, <em>41</em>(2), btaf034 (9 pages). </div>
+<div style="margin-bottom: 10px;">Hong, S., Chattaraj, K. G., Guo, J., Trout, B. L., &amp; Braatz, R. D. (2025). <a href="https://publications.polymtl.ca/66494/" target="_blank">Enhanced O-glycosylation site prediction using explainable machine learning technique with spatial local environment.</a> <em>Bioinformatics</em>, <em>41</em>(2), btaf034 (9 pages). </div>
 
 
-<div>Ma, Y., Guo, J., Maloney, A. J., &amp; Braatz, R. D. (2025). <a href="https://publications.polymtl.ca/73310/" target="_blank">Quasi-steady-state approach for efficient multiscale simulation and optimization of mAb glycosylation in CHO cell culture.</a> <em>Chemical Engineering Science</em>, <em>318</em>, 122162 (19 pages).</div>
+<div style="margin-bottom: 10px;">Ma, Y., Guo, J., Maloney, A. J., &amp; Braatz, R. D. (2025). <a href="https://publications.polymtl.ca/73310/" target="_blank">Quasi-steady-state approach for efficient multiscale simulation and optimization of mAb glycosylation in CHO cell culture.</a> <em>Chemical Engineering Science</em>, <em>318</em>, 122162 (19 pages).</div>
 
 ### 2024
 
