@@ -27,8 +27,8 @@
   {% assign pages = site.pages | where_exp: "item", "item.title and item.sitemap != false" | sort: "order" %}
 {% endif %}
 
-<header class="hover smooth" style="padding: 25px 200px;">
-  <div style="display: flex; align-items: center; gap: 160px;">
+<header class="hover smooth" style="padding: 25px 180px;">
+  <div style="display: flex; align-items: center; gap: 360px;">
     <div>
       {% unless site.show_minimal and site.navigation and site.external %}
         <h1 style="margin: 0;">
